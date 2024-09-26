@@ -7,7 +7,7 @@ int main()
 	printf("Enter a Five digit number: ");
 	scanf("%d", &Num);
 	
-	origialNum= Num;
+	originalNum= Num;
 	
 	//Reverse the number
 	while(Num!=0)
